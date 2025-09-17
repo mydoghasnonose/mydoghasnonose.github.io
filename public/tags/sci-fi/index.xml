@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sci-Fi on MYDOGHASNONOSE</title>
+    <link>//localhost:1313/tags/sci-fi/</link>
+    <description>Recent content in Sci-Fi on MYDOGHASNONOSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
+    <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
+    <copyright>© 2025 Mydoghasnonose</copyright>
+    <lastBuildDate>Wed, 06 Aug 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WTF-003 .666 Ultra-Large Caliber &#34;Bullshot&#34; handgun</title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/bull-shot/</link>
+      <pubDate>Wed, 06 Aug 2025 15:38:47 +0100</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/bull-shot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/bull-shot/feature-bullshot.jpg" />
+    </item>
+    
+    <item>
+      <title>WTF-004 Urban Hand Cannon</title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/urban-hand-cannon/</link>
+      <pubDate>Wed, 06 Aug 2025 15:38:47 +0100</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/urban-hand-cannon/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/urban-hand-cannon/feature-urban-hand-cannon.jpg" />
+    </item>
+    
+  </channel>
+</rss>

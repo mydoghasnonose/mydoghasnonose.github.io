@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MYDOGHASNONOSE</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on MYDOGHASNONOSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
+    <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
+    <copyright>© 2025 Mydoghasnonose</copyright>
+    <lastBuildDate>Wed, 06 Aug 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Procreate</title>
+      <link>//localhost:1313/categories/procreate/</link>
+      <pubDate>Wed, 06 Aug 2025 15:38:47 +0100</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/categories/procreate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unlikely Weapons</title>
+      <link>//localhost:1313/categories/unlikely-weapons/</link>
+      <pubDate>Wed, 06 Aug 2025 15:38:47 +0100</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/categories/unlikely-weapons/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
