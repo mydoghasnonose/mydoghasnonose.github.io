@@ -3,7 +3,7 @@ date = '2024-05-05T21:20:40+01:00'
 title = 'Punk and Procreate'
 draft = false
 categories = ['Illustration', 'Graphics', 'Unlikely Series']
-tags = ['Album, 'Pen and paper', 'Digital art', 'Illustration', 'Illustrator', 'Adobe', 'Procreate', 'Indesign', 'I will take you hunting', 'Music', 'Print', 'Punk', 'Seabass Vinyl', 'Unlikely machines']
+tags = ['Album', 'Pen and paper', 'Digital art', 'Illustration', 'Illustrator', 'Adobe', 'Procreate', 'Indesign', 'I will take you hunting', 'Music', 'Print', 'Punk', 'Seabass Vinyl', 'Unlikely machines']
 +++
 
 # Punk and Procreate
