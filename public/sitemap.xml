@@ -4,19 +4,49 @@
 
   <url>
     <loc>//localhost:1313/content/</loc>
-    <lastmod>2025-08-06T15:38:47+01:00</lastmod>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/jewelry/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-08-06T15:38:47+01:00</lastmod>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/content/posts/pocklington/</loc>
-    <lastmod>2025-08-06T15:38:47+01:00</lastmod>
+    <loc>//localhost:1313/content/posts/unlikely-other/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/projects/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikley-architecture/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-stories/</loc>
+    <lastmod>2025-09-21T15:38:47+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,8 +75,97 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/content/posts/blog1/</loc>
-    <lastmod>2025-08-06T15:35:49+01:00</lastmod>
+    <loc>//localhost:1313/content/posts/doodles/ai-killer-robot/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/circle-marks/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/circle-squared/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/daggers/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/inktober-2022/inktober-2022/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/doodles/inktober-2024/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/jewelry/first-attempt-rings/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/projects/iwtyh-album-cover/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/projects/nft-guns-knives/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/projects/skulls-to-skateboards/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-other/cars-and-trucks/unlikely-cars-trucks/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-stories/martin-retiriing/uinlikely-martin-retiring/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-stories/unlikely-stories-03-2025/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-weapons/air077-service-pistol/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikley-architecture/architecture-likely-unlikely/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/content/posts/unlikley-architecture/pockington-redux-2025/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

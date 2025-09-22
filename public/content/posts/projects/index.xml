@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects from MyDogHQ on MYDOGHASNONOSE</title>
+    <link>//localhost:1313/content/posts/projects/</link>
+    <description>Recent content in Projects from MyDogHQ on MYDOGHASNONOSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
+    <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
+    <copyright>© 2025 Mydoghasnonose</copyright>
+    <lastBuildDate>Sun, 21 Sep 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/content/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/iwtyh-album-cover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/iwtyh-album-cover/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/iwtyh-album-cover/feature-album.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/nft-guns-knives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/nft-guns-knives/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/nft-guns-knives/feature-nft-gun.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/feature-lion-lamb.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/skulls-to-skateboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/skulls-to-skateboards/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/skulls-to-skateboards/feature-skull.jpg" />
+    </item>
+    
+  </channel>
+</rss>

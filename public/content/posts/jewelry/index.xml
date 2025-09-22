@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jewelry &amp; Silversmithing on MYDOGHASNONOSE</title>
+    <link>//localhost:1313/content/posts/jewelry/</link>
+    <description>Recent content in Jewelry &amp; Silversmithing on MYDOGHASNONOSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
+    <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
+    <copyright>© 2025 Mydoghasnonose</copyright>
+    <lastBuildDate>Sun, 21 Sep 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/content/posts/jewelry/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/jewelry/first-attempt-rings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/jewelry/first-attempt-rings/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/jewelry/first-attempt-rings/feature-rings.jpg" />
+    </item>
+    
+  </channel>
+</rss>

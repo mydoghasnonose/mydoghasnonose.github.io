@@ -31,5 +31,35 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/urban-hand-cannon/feature-urban-hand-cannon.jpg" />
     </item>
     
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/air077-service-pistol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/air077-service-pistol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/feature-sea-bream.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/feature-rear-loading.jpg" />
+    </item>
+    
   </channel>
 </rss>

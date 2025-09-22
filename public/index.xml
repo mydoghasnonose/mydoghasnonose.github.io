@@ -9,7 +9,7 @@
     <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
     <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
     <copyright>© 2025 Mydoghasnonose</copyright>
-    <lastBuildDate>Wed, 06 Aug 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>WTF-003 .666 Ultra-Large Caliber &#34;Bullshot&#34; handgun</title>
@@ -32,13 +32,193 @@
     </item>
     
     <item>
-      <title>Blog1</title>
-      <link>//localhost:1313/content/posts/blog1/</link>
-      <pubDate>Wed, 06 Aug 2025 15:35:49 +0100</pubDate>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/ai-killer-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
-      <guid>//localhost:1313/content/posts/blog1/</guid>
+      <guid>//localhost:1313/content/posts/doodles/ai-killer-robot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/ai-killer-robot/feature-robot.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/circle-marks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/circle-marks/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/circle-marks/feature-circles.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/circle-squared/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/circle-squared/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/circle-squared/feature-circle-squared.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/daggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/daggers/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/daggers/feature-daggers.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/inktober-2022/inktober-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/inktober-2022/inktober-2022/</guid>
       <description></description>
       
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/inktober-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/inktober-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/inktober-2024/feature-inktober-2024.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/jewelry/first-attempt-rings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/jewelry/first-attempt-rings/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/jewelry/first-attempt-rings/feature-rings.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/iwtyh-album-cover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/iwtyh-album-cover/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/iwtyh-album-cover/feature-album.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/nft-guns-knives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/nft-guns-knives/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/nft-guns-knives/feature-nft-gun.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/nina-miller-davidson-update-1/feature-lion-lamb.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/projects/skulls-to-skateboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/projects/skulls-to-skateboards/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/projects/skulls-to-skateboards/feature-skull.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-other/cars-and-trucks/unlikely-cars-trucks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-other/cars-and-trucks/unlikely-cars-trucks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-stories/martin-retiriing/uinlikely-martin-retiring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-stories/martin-retiriing/uinlikely-martin-retiring/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-stories/unlikely-stories-03-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-stories/unlikely-stories-03-2025/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-stories/unlikely-stories-03-2025/feature-bondolvia.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/air077-service-pistol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/air077-service-pistol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-2022/feature-sea-bream.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikely-weapons/unlikely-weapons-procreate/feature-rear-loading.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikley-architecture/architecture-likely-unlikely/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikley-architecture/architecture-likely-unlikely/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikley-architecture/architecture-likely-unlikely/feature-cock-inn.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/unlikley-architecture/pockington-redux-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/unlikley-architecture/pockington-redux-2025/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/unlikley-architecture/pockington-redux-2025/feature-browns.jpg" />
     </item>
     
   </channel>
