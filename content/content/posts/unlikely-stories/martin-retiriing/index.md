@@ -1,6 +1,6 @@
 +++
 date = '2024-04-05T07:12:16+01:00'
-title = 'Martin''s Retiring'
+title = 'Martins Retiring'
 draft = false
 categories = 'Unlikely Series'
 tags = ['Unlikey Stories', 'Pen and paper', 'Illustration', 'Unlikely', 'Stories']
