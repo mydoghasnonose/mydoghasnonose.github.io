@@ -1,9 +1,12 @@
-category = jewelry
-tag = craft, fashion, jewellery, jewelry, rings, silver
++++
+date = '2024-03-29T08:00:00+01:00'
+title = 'Jewelry : First attempt at Rings'
+draft = false
+categories = 'jewelry'
+tags = ['Craft', 'Fashion', 'Jewellery', 'Jewelry', 'Rings', 'Silver']
++++
 
 # Jewelry : First attempt at Rings
-<link>https://www.mydoghasnono.se/2024/03/29/jewelry-rings/</link>
-<pubDate>Fri, 29 Mar 2024 08:00:00 +0000</pubDate>
 
 In late 2023 I attended a Silversmith Workshop with [Tori Foster](https://www.torifosterjewellery.com) and hosted at the fantastic workshop owned by [Helen Drye](https://www.silver-stonejewellery.co.uk/). They both have regular sessions available that are really affordable and they make it so much fun too It was a real eye opener and Tori is such a great and talented teacher. So I now have all the Silversmith Gear and No Idea. But I’m starting basic and have almost perfected the art of simple silver rings.
 

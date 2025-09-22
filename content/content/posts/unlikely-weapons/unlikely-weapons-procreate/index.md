@@ -1,7 +1,12 @@
-# Unlikely Weapons in Procreate
-<link>https://www.mydoghasnono.se/2025/02/26/unlikely-weapons-in-procreate/</link>
-<pubDate>Wed, 26 Feb 2025 17:00:00 +0000</pubDate>
++++
+date = '2024-02-26T17:34:23+00:00'
+title = 'Unlikely Weapons 2022'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Fantasy', 'Doodle', 'Digital art', 'Illustration', 'Guns', 'Military', 'Procreate', 'Rifle', 'Scifi', 'Weapons']
++++
 
+# Unlikely Weapons in Procreate
 
 During the winter of 2024, in the lead up to Christmas, I managed to click with Procreate after a walking through a good [training course on Udemy](https://www.udemy.com/course/drawing-and-painting-on-the-ipad-with-procreate/). I've not finished it yet, but it taught me how to build a picture up using Layers and merging my additions. It's a great way to paint without committing until you're absolutely sure it looks good.
 
@@ -34,7 +39,3 @@ Anyway, enough for now, hope you enjoy them. Click on the image to load them in 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/mydoghasnonose/54119322869/" title="WTF-069-Desert Shart Sniper Supreme"><img src="https://live.staticflickr.com/65535/54119322869_ca727dfba4.jpg" width="500" height="209" alt="WTF-069-Desert Shart Sniper Supreme"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/mydoghasnonose/54112935050/" title="Unlikely Weapons : WTF-001 Urban Assault Rifle"><img src="https://live.staticflickr.com/65535/54112935050_5288a7bb24.jpg" width="500" height="293" alt="Unlikely Weapons : WTF-001 Urban Assault Rifle"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-category = "unlikelyseries", illustration
-tag = doodle, "digital art", procreate, fantasy, guns, illustration, military, rifle, scifi, unlikely, weapons
-

@@ -1,9 +1,12 @@
-category = illustration, graphics, "unlikely series"
-tag = album, "pen and paper", "digital art", illustration, illustrator, adobe, procreate, indesign, "i will take you hunting", music, print, punk, "sea bass vinyl", "unlikely machines"
++++
+date = '2024-05-05T21:20:40+01:00'
+title = 'Punk and Procreate'
+draft = false
+categories = ['Illustration', 'Graphics', 'Unlikely Series']
+tags = ['Album, 'Pen and paper', 'Digital art', 'Illustration', 'Illustrator', 'Adobe', 'Procreate', 'Indesign', 'I will take you hunting', 'Music', 'Print', 'Punk', 'Seabass Vinyl', 'Unlikely machines']
++++
 
 # Punk and Procreate
-<link>https://www.mydoghasnono.se/2024/05/05/punk-procreate/</link>
-<pubDate>Sun, 05 May 2024 21:20:40 +0000</pubDate>
 
 I've thought long and hard, perused my recent albums to try and think of something that I was really into when working on this. The Summer of 2023, for me, had this brilliant album on constant replay. One of those albums that bury into your brain and leave you with parts of the song ringing in your head at 4am. 
 

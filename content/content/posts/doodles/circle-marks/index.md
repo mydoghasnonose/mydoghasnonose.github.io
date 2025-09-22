@@ -1,9 +1,12 @@
-category = doodles
-tag = abstract, circles, doodle, "pen and paper", illustration, mydoghasnonose, pencil
++++
+date = '2025-04-13T07:02:28+01:00'
+title = 'Doodles : Circle Marks'
+draft = false
+categories = 'doodles'
+tags = ['Abstract', 'Circles', 'Doodle', 'pen and paper', 'Illustration', 'Pencil']
++++
 
 # Doodles : Circle Marks
-<link>https://www.mydoghasnono.se/2024/04/13/doodles-circle-marks/</link>
-<pubDate>Sat, 13 Apr 2024 07:00:00 +0000</pubDate>
 
 On one of several work calls this week, doodling and definitely paying attention. Doodling has always helped me concentrate on the conversations, even though it may not look like it. One of my doodling pursuits is to attain the perfect free-hand circle. This should be in my sketchbook, but it's not always at hand. I also get a mental block with my sketchbook sometimes. It's like I'm scared to make a mark on the page and end up with a less than pristine journal of creative endevours. It's stupid I know.
 

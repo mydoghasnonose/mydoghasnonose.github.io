@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = cartoon, "pen and paper", Illustration, stories, story, unlikely
++++
+date = '2024-03-21T17:03:31+00:00'
+title = 'Very Unlikely Stories'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Stories', 'Cartoon', 'Pen and paper', 'Illustration', 'Story', 'Unlikely']
++++
 
 # Unlikely Stories
-<link>https://www.mydoghasnono.se/2025/03/21/unlikely-stories/</link>
-<pubDate>Fri, 21 Mar 2025 17:00:00 +0000</pubDate>
 
 These illustrations came out the back of another [Domestika](https://www.domestika.org/en/courses/1218-the-art-of-sketching-transform-your-doodles-into-art/course) course that I completed during lockdown. [Mattias Adolfsson](https://www.instagram.com/mattiasink/) is an amazing artist who creates these extremely detailed pieces with a fountain pen and watercolour. His work really connected with me and you can probably see his influence in these works.
 

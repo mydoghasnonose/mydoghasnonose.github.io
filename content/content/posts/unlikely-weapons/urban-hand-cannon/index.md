@@ -2,8 +2,8 @@
 date = '2025-08-06T15:38:47+01:00'
 title = 'WTF-004 Urban Hand Cannon'
 draft = false
-categories = ['unlikely weapons', 'procreate']
-tags = ['Digital Art', 'Weapons', 'Guns', 'Sci-fi']
+categories = 'Unlikely Series'
+tags = ['Fantasy', 'Doodle', 'Pen and paper', 'Illustration', 'Guns', 'Military', 'Watercolour', 'Rifle', 'Scifi', 'Weapons']
 +++
 ## Error sit voluptatem accusantium doloremque laudantium
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/mydoghasnonose/54687319614/in/album-72157710194279536" title="WTF-004 Urban Hand Cannon"><img src="https://live.staticflickr.com/65535/54687319614_895c3b61fa_c.jpg" width="800" height="800" alt="WTF-004 Urban Hand Cannon"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

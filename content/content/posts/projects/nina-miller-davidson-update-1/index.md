@@ -1,9 +1,12 @@
-category = "nina miller davidson"
-tag = artist, church, davidson, eaglesham, glasgow, "glasgow school of art", millar, miller, nina, "nina miller davidson", scotland, scottish, stained glass, windows
++++
+date = '2023-07-22T08:33:33+01:00'
+title = 'Nina Miller Davidson'
+draft = false
+categories = 'Nina Miller Davidson'
+tags = ['Artist', 'Church', 'Davidson', 'Eaglesham', 'Glasgow', 'Glasgow School of Art', 'Millar', 'Miller', 'Nina', 'Nina Miller Davidson', 'Scotland', 'Scottish', 'Stained glass', 'Windows']
++++
 
 # Nina Miller Davidson
-<link>https://www.mydoghasnono.se/2023/07/22/nina-miller-davidson/</link>
-<pubDate>Sat, 22 Jul 2023 08:33:33 +0000</pubDate>
 
 This blog post was initially published several years ago on a previous version of this blog site, but it sank into the swamp. So I built another one.... It's a real shame because there were some very kind and helpful comments attached which have been lost forever, but I think I still have them in email somewhere. Maybe I can publish them as a follow-up blog at some point. Anyway, here is the original posting back in its entirety.
 

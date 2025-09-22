@@ -1,9 +1,12 @@
-category = doodles
-tag = doodle, "pen and paper", fantasy, illustration, military, unlikely, weapons
++++
+date = '2024-03-28T16:30:17+00:00'
+title = 'Doodles : Daggers'
+draft = false
+categories = 'doodles'
+tags = ['Fantasy', 'Circles', 'Doodle', 'pen and paper', 'Illustration', 'Unlikely', 'Weapons']
++++
 
 # Doodles : Daggers
-<link>https://www.mydoghasnono.se/2024/03/28/doodles-daggers/</link>
-<pubDate>Thu, 28 Mar 2024 16:30:00 +0000</pubDate>
 
 Back from far too long away. I will keep these posts short and sweet. This is a recurring doodle of some daggers I like to draw absent mindedly.
 

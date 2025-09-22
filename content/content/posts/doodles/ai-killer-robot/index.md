@@ -1,9 +1,12 @@
-category = doodles
-tag = ai, "artificial intelligence", cartoon, doodle, illustration, robot
++++
+date = '2025-05-01T07:00:00+01:00'
+title = 'Doodle : AI Killer Robot'
+draft = false
+categories = 'doodles'
+tags = ['AI', 'Artificial Intelligence', 'Cartoon', 'Doodle', 'Illustration', 'Robot']
++++
 
 # Doodle : AI Killer Robot
-<link>https://www.mydoghasnono.se/2024/05/01/doodle-ai-killer-robot/</link>
-<pubDate>Wed, 01 May 2024 07:00:00 +0000</pubDate>
 
 This post is brought to you by this killer album [Gong - Live at the Gong Family Unconventional Gathering](https://gong2032.bandcamp.com/album/live-at-the-gong-family-unconventional-gathering?from=search&search_item_id=1397981059&search_item_type=b&search_match_part=%3F&asearch_page_id=3372821443&search_page_no=1&search_rank=2&search_sig=0680852e25c3e3392ca74b981051671f), release in 2021 and contains all the hits I love from their extensive discography. I really love the current line-up with Kavus Torabi at the helm.
 

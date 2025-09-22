@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = automobiles, cars, "pen and paper", illustration, trucks, unlikely, vehicles
-
++++
+date = '2024-04-28T18:19:30+01:00'
+title = 'Unlikely : Cars and Trucks'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Automobiles', 'Cars', 'Pen and paper', 'Illustration', 'Trucks', 'Unlikely', 'Vehicles']
++++
+ 
 # Unlikely : Cars and Trucks
-<link>https://www.mydoghasnono.se/2024/04/28/unlikely-cars-trucks/</link>
-<pubDate>Sun, 28 Apr 2024 18:19:30 +0000</pubDate>
 
 This post was brought to you by Cardiacs brilliant live album [Special Garage Concerts Vol I & II](https://alphabet-business-concern.bandcamp.com/album/special-garage-concerts-vol-i-ii). I don't know the details of the recordings but it's later in their career and the closest album to this brilliant track on Youtube that I love to listen to time and again.
 

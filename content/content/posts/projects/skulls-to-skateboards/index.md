@@ -1,9 +1,12 @@
-category = graphics
-tag = board, design, graphics, "jolly roger", skateboard, skateboards, skating, skulls, vector
++++
+date = '2024-03-31T07:00:45+01:00'
+title = 'Skulls to Skateboards'
+draft = false
+categories = 'Graphics'
+tags = ['Board', 'Design', 'Graphics', 'Jolly Roger', 'Skateboard', 'Skateboards', 'Skating', 'Skulls', 'Vector']
++++
 
 # Skulls to Skateboards
-<link>https://www.mydoghasnono.se/2024/03/31/skulls-to-skateboards/</link>
-<pubDate>Sun, 31 Mar 2024 07:00:00 +0000</pubDate>
 
 So here's one of my potential failures, the details of which I will fully explain in a later blog next week. Today we are all off to Leicester to see my favourite "band" The Orb Live. I have followed them since the mid 90s and its the perfect backdrop to getting in the zone with my art. At the moment I am hooked on this live album I stumbled across on Apple Music, [Further Adventures Beyond Dark Matter](https://youtube.com/playlist?list=PLfUAnz6AAXuVnQ-dScxUsTs0chUrLJBwB&si=Yb7UsJNIzIejYXSN) Live in Brixton in 2014. The first five tracks are amazing.
 Anyway, late 2023 I doodle this skull and cross bones in my sketchbook. It's another favourite icon of mine.

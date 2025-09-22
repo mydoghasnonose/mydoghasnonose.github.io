@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = "digital art", procreate, doodle, blockchain, crypto, nft
++++
+date = '2025-02-09T15:00:20+00:00'
+title = 'NFT : An unlikely project'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Digital art', 'Procreate', 'Doodle', 'Blockchain', 'Crypto', 'NFT']
++++
 
 # NFT : An unlikely project
-<link>https://www.mydoghasnono.se/2025/02/09/nft-weapons-an-unlikely-project/</link>
-<pubDate>Sun, 09 Feb 2025 15:00:32 +0000</pubDate>
 
 Over the summer I've been reading about the "Blockchain" and Crypto-currencies, mostly due to developments with the day job, but it soon brought me to the attention of the bizarre phenomenon of NFTs, or "Non Fungible Tokens". This is again thanks to my inquisitive son who just loves to stick his nose in all these technical things.
 

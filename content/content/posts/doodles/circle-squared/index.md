@@ -1,9 +1,12 @@
-category = doodles
-tag = abstract, "pen and paper", circles, doodle, drawing
++++
+date = '2024-04-15T07:12:26+01:00'
+title = 'Doodle : A Circle Squared'
+draft = false
+categories = 'doodles'
+tags = ['Abstract', 'Circles', 'Doodle', 'pen and paper', 'Illustration', 'Pencil']
++++
 
 # Doodles: A Circle Squared
-<link>https://www.mydoghasnono.se/2024/04/15/doodles-circles-disasters/</link>
-<pubDate>Mon, 15 Apr 2024 07:00:00 +0000</pubDate>
 
 Sunday afternoon doodle. Building on the pencil sketch from my last blog entry. I need magnifier spectacles now, which is a really horrible admission. This time I was more strategic in my placement of the big circles and worked around them. Composition seems better.
 

@@ -1,8 +1,12 @@
-category = doodles
-tag = challenge, doodle, "pen and paper", illustration, ink, inktober, pen
++++
+date = '2024-11-01T16:11:00+01:00'
+title = 'An especially inky Inktober 2022'
+draft = false
+categories = 'doodles'
+tags = ['Challenge', 'Inktober', 'Doodle', 'pen and paper', 'Illustration', 'Pen']
++++
 
 # An especially inky Inktober 2022
-<pubDate>Tue, 01 Nov 2022 16:11:00 +0000</pubDate>
 
 So that's Inktober done for another year. I totally failed last year with an overly ambitious plan, but cracked it this year by being quick and free.
 

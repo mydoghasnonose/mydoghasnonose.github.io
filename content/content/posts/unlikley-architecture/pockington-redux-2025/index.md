@@ -1,9 +1,12 @@
-category "unlikely series"
-tag = architecture, "pen and paper" "east yorkshire"", illustration, pocklington, unlikely, "unlikely architecture", wolds, yorkshire
++++
+date = '2025-06-11T17:46:55+01:00'
+title = 'Unlikely Weapons 2022'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Fantasy', 'Doodle', 'Pen and paper', 'Illustration', 'Architecture', 'Buildings', 'Watercolour', 'Pocklington', 'Wolds', 'East Riding of Yorkshire']
++++
 
 # Unlikely Architecture : Pocklington Redux 2025
-<link>https://www.mydoghasnono.se/2025/06/11/unlikely-architecture-pocklington-redux-2025/</link>
-<pubDate>Wed, 11 Jun 2025 17:46:55 +0000</pubDate>
 
 ### Pocklington Illustrated
 

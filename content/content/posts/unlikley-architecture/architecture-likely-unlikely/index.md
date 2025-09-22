@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = architecture, buildings, doodle, "pen and paper", illustration, unlikely, watercolour
++++
+date = '2025-03-14T17:02:56+00:00'
+title = 'Unlikely Weapons 2022'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Fantasy', 'Doodle', 'Pen and paper', 'Illustration', 'Architecture', 'Buildings', 'Watercolour']
++++
 
 # Architecture : Likely and Unlikely
-<link>https://www.mydoghasnono.se/2025/03/14/architecture-likely-unlikely/</link>
-<pubDate>Fri, 14 Mar 2025 17:00:00 +0000</pubDate>
 
 I've turned my interest back to architecture this weekend as I started a new course on [Domestika](https://www.domestika.org/en/courses/3675-expressive-architectural-sketching-with-colored-markers) with a brilliant artist called [Albert Kiefer](https://www.instagram.com/housesketcher/) who I have followed for quite a while now on Instagram.
 

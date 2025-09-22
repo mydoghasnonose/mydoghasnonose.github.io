@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = cartoon, "pen and paper", illustration, "unlikely stories", watercolour
++++
+date = '2024-04-05T07:12:16+01:00'
+title = 'Martin''s Retiring'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Unlikey Stories', 'Pen and paper', 'Illustration', 'Unlikely', 'Stories']
++++
 
 # Martin's Retiring
-<link>https://www.mydoghasnono.se/2024/04/05/martins-retiring/</link>
-<pubDate>Fri, 05 Apr 2024 07:00:00 +0000</pubDate>
 
 This is latest of a series of illustrations that started from an online course on Domestika with Mattias Adolfsson. I love the small details in his artwork, you spend ages finding little things that surprise you or puzzle you.
 This piece was made for a colleague and friend, so the details are all in-jokes, so I need to create some more generic works that might mean more to more people. I’ll share some previous works too in the coming days.

@@ -1,10 +1,13 @@
-category = doodles
-tag = challenge, doodle, "pen and paper", illustration, ink, inktober, pen
++++
+date = '2025-03-25T17:00:00+00:00'
+title = 'Inktober 2024'
+draft = false
+categories = 'doodles'
+tags = ['Abstract', 'Circles', 'Doodle', 'pen and paper', 'Illustration', 'Pencil']
++++
 
 # Inktober 2024
 <link>https://www.mydoghasnono.se/2025/03/05/inktober-2024/</link>
-<pubDate>Wed, 05 Mar 2025 17:00:00 +0000</pubDate>
-
 
 I nearly didn't bother this time round, but the bottom line is that I actually enjoy doing it. Each year I have grandiose ideas of making one intricate masterpiece that involves all the prompts and unveil each aspect of the piece each day and it slowly reveals an outer story. Like my [failed attempt from 2021](https://flic.kr/p/2qbonzS). An illustration along the lines of my [Unlikely Stories](https://flic.kr/s/aHBqjC3JXT) that are heavily influenced by the great Mattias Adolffsen. I love his art, loads of details that jump out at you, sometimes very subtle, but always with great humour.
 

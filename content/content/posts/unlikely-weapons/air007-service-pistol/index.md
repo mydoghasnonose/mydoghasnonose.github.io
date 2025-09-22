@@ -1,9 +1,12 @@
-category = "unlikely series"
-tag = doodle, "pen and paper", watercolour, fantasy, guns, illustration, military, rifle, scifi, unlikely, weapons
++++
+date = '2024-04-06T07:12:19+01:00'
+title = 'AIR-007 Service Pistols'
+draft = false
+categories = 'Unlikely Series'
+tags = ['Fantasy', 'Doodle', 'Pen and paper', 'Illustration', 'Guns', 'Military', 'Watercolour', 'Rifle', 'Scifi', 'Weapons']
++++
 
 # AIR-007 Service Pistols
-<link>https://www.mydoghasnono.se/2024/04/06/air-007-service-pistols/</link>
-<pubDate>Sat, 06 Apr 2024 07:00:00 +0000</pubDate>
 
 Guns are back in the sketchbook this week. They are just an irresistible doodle for me and I loaded these two during a family week off at home in front of the TV while listening to Four Tet's new album called "Three". Not available on Youtube, but here's a really good [Live DJ session](https://youtu.be/hvO0PrMBH9I?si=PXrTs3vEai5eYkmE) from them.
 
