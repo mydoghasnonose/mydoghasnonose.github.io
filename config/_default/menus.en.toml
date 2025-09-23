@@ -13,7 +13,7 @@
 [[main]]
   name = "Blog"
   pre="pencil"
-  pageRef = "posts"
+  pageRef = "content/posts"
   weight = 10
 
 #[[main]]
