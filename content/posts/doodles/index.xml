@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doodles on MYDOGHASNONOSE</title>
+    <link>//localhost:1313/content/posts/doodles/</link>
+    <description>Recent content in Doodles on MYDOGHASNONOSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>roger@mydoghasnono.se (Mydoghasnonose)</managingEditor>
+    <webMaster>roger@mydoghasnono.se (Mydoghasnonose)</webMaster>
+    <copyright>© 2025 Mydoghasnonose</copyright>
+    <lastBuildDate>Sun, 21 Sep 2025 15:38:47 +0100</lastBuildDate><atom:link href="//localhost:1313/content/posts/doodles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/ai-killer-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/ai-killer-robot/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/ai-killer-robot/feature-robot.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/circle-marks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/circle-marks/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/circle-marks/feature-circles.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/circle-squared/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/circle-squared/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/circle-squared/feature-circle-squared.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/daggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/daggers/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/daggers/feature-daggers.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/inktober-2022/inktober-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/inktober-2022/inktober-2022/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/content/posts/doodles/inktober-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>roger@mydoghasnono.se (Mydoghasnonose)</author>
+      <guid>//localhost:1313/content/posts/doodles/inktober-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/content/posts/doodles/inktober-2024/feature-inktober-2024.jpg" />
+    </item>
+    
+  </channel>
+</rss>
