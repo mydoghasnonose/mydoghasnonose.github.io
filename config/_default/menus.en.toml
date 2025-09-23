@@ -12,7 +12,6 @@
 
 [[main]]
   name = "Blog"
-  pre="pencil"
   pageRef = "posts"
   weight = 10
 
